@@ -3,14 +3,14 @@ CAD models of the Dome apparatus - accompanying Madhav, Jayakumar et al., 2021
 
 ## Overview of the Solidworks assembly and part files
 
-Some parts are not made publicly available in the repository since they were downloaded from the Manufacturer's website and licensing constraints prevents us from sharing them. We will place them into the repository if and when we receive permission.
+Some parts are not made publicly available in the repository since they were downloaded from the Manufacturer's website and licensing constraints prevents us from sharing them. We will place them into the repository if and when we receive permission. These parts have been indicated by the empty files `*.placeholder`. The names contain the part numbers that you can use to access the parts from the manufacturer.
 
 The source of each of the parts / assemblies are indicated in their respective file names:
 
-* domeCad_* : Created by the us
-* McMasterCarr_* : [McMaster-Carr](https://www.mcmaster.com/)
-* 8020-* : [80/20 Inc.](https://8020.net/)
-* grabCad_* : Downloaded from [GrabCAD](https://grabcad.com/). Covered under [Cross License](https://grabcad.com/terms)
+* `domeCad_*` : Created by the us
+* `McMasterCarr_*` : [McMaster-Carr](https://www.mcmaster.com/)
+* `8020-*` : [80/20 Inc.](https://8020.net/)
+* `grabCad_*` : Downloaded from [GrabCAD](https://grabcad.com/). Covered under [Cross License](https://grabcad.com/terms)
 
 ### Main assembly
 domeCAD_fullAssembly.SLDASM is the main file. It is the assembly of all the parts of the Dome.
