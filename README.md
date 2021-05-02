@@ -7,7 +7,7 @@ Some parts are not made publicly available in the repository since they were dow
 
 The source of each of the parts / assemblies are indicated in their respective file names:
 
-* `domeCad_*` : Created by the us
+* `domeCad_*` : Created by us
 * `McMasterCarr_*` : [McMaster-Carr](https://www.mcmaster.com/)
 * `8020-*` : [80/20 Inc.](https://8020.net/)
 * `grabCad_*` : Downloaded from [GrabCAD](https://grabcad.com/). Covered under [Cross License](https://grabcad.com/terms)
@@ -15,6 +15,8 @@ The source of each of the parts / assemblies are indicated in their respective f
 ### Main assembly
 domeCAD_fullAssembly.SLDASM is the main file. It is the assembly of all the parts of the Dome.
 Please open this file to see the entire Dome structure at once.
+
+![](domeCad_rendering.JPG)
 
 This file is composed of multiple subassemblies distributed in the subfolders. These are:
 
